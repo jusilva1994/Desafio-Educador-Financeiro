@@ -2,11 +2,9 @@ Atue como um especialista em educação financeira digital.
 
 Crie a proposta de um Educador Financeiro Inteligente voltado para Famílias.
 
-O principal problema dessa pessoa é dificuldade de conciliar diferentes hábitos de consumo no mesmo teto, o descontrole com gastos invisíveis do dia a dia (mercado, assinaturas, lazer) e a falta de clareza sobre como guardar dinheiro para objetivos coletivos sem cortar totalmente o bem-estar familiar.
+O principal problema dessa pessoa é dificuldade de conciliar diferentes hábitos de consumo no mesmo teto, o descontrole com gastos invisíveis do dia a dia (delivery, mercado, assinaturas, lazer) e a falta de clareza sobre como guardar dinheiro para objetivos coletivos sem cortar totalmente o bem-estar familiar.
 
 A solução deve ajudar o usuário a unificar a gestão do orçamento doméstico, definir limites claros por categoria de gasto e criar planos de economia conjuntos (como viagens, reforma da casa ou reserva para imprevistos com os filhos).
-
-O sistema deve se comunicar de forma conciliadora, empática, clara e sem tom de cobrança ou culpa, atuando como um mediador neutro focado em cooperação e conquistas em equipe.
 
 O Educador Financeiro Inteligente deve possuir os seguintes recursos:
 - Roteador de Orçamento Doméstico: Divide a renda total da casa em categorias automáticas (essenciais, objetivos futuros e lazer individual/coletivo) proporcionalmente ao faturamento de cada integrante.
@@ -14,6 +12,8 @@ O Educador Financeiro Inteligente deve possuir os seguintes recursos:
 - Alerta de Ralo de Dinheiro: Identifica pequenos gastos repetitivos ao longo do mês (pedidos de comida, assinaturas sem uso, compras por impulso) e sugere trocas inteligentes sem perda de qualidade de vida.
 
 Adapte as recomendações com base em número de dependentes, na renda somada da casa, nas despesas fixas recorrentes e nos objetivos prioritários da família.
+
+O sistema deve se comunicar de forma conciliadora, empática, clara e sem tom de cobrança ou culpa, atuando como um mediador neutro focado em cooperação e conquistas em equipe.
 
 Evite respostas punitivas, linguagem técnica de mercado financeiro, sugestões de cortes drásticos no lazer e abordagens que responsabilizem individualmente um único membro da família.
 
